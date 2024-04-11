@@ -1,6 +1,6 @@
 English is [here](https://github.com/EverestAPI/Resources)
 
-# このレポジトリについて
+# このリポジトリについて
 これは非公式の日本語版EverestAPIドキュメントです、
 このドキュメントはいまのところたくんまのみによって維持されていますが、将来的には誰でも編集できるような状態を維持します
 
